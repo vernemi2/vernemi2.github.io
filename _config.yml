@@ -15,7 +15,7 @@ name                     : "Michal Verner"
 description              : "Portfolio site. Plan for future is to create blog about Salesforce development."
 url                      : https://vernemi2.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "vernemi2/vernemi2"
+repository               : "vernemi2/vernemi2.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
