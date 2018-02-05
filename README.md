@@ -1,6 +1,6 @@
-# Site Repo (http://www.michal-verner.co.uk/)
+# Site Repo
 
-Personal static site which should contain info about me, portfolio and hopefully blog in the future.
+Personal static site which should contain info about me, portfolio and hopefully blog in the future (http://www.michal-verner.co.uk/).
 
 It is using following technologies:
 
