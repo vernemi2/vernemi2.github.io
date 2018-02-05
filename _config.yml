@@ -13,7 +13,7 @@ title                    : "Thinking in Salesforce"
 title_separator          : "-"
 name                     : "Michal Verner"
 description              : "Portfolio site. Plan for future is to create blog about Salesforce development."
-url                      : 
+url                      :
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "vernemi2/vernemi2.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -62,7 +62,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "verner_michal"
 facebook:
   username               :
   app_id                 :
