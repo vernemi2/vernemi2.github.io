@@ -1,4 +1,4 @@
-# vernemi2.github.io Site Repo
+# Site Repo (http://www.michal-verner.co.uk/)
 
 Personal static site which should contain info about me, portfolio and hopefully blog in the future.
 
