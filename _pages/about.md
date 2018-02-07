@@ -1,8 +1,14 @@
 ---
-layout: single
 title: "About Me"
 permalink: /
 excerpt: "Something about me and my career."
+feature_row:
+  - image_path: /assets/images/salesforce-certified-platform-dev-I.png
+    alt: "Salesforce certified platform developer I"
+  - image_path: /assets/images/Salesforce-Certified-Platform-App-Builder.png
+    alt: "Salesforce App Builder"
+  - image_path: /assets/images/Certified-Salesforce-Administrator-DEV-401.png
+    alt: "Salesforce Force.com Developer"
 ---
 
 I'm a software developer building projects and new stuff for almost 8 years now. I started as a part time test engineer on the university, then I moved to Java development where I worked on one of the best projects with fantastic people. In that time I had an opportunity to learn something new and try some of the emerging platforms on the market. That's how I started with Salesforce. I liked the idea to have platform with some basic business capability with the ability to extend it as needed. Apex is quite similar to Java so it enabled me to learn how to develop, build and deploy to platform quickly.
@@ -13,3 +19,7 @@ So far I have worked on Force.com platform for 4 years and was able to explore d
 
 Salesforce is a leader in CRM space and is evolving almost every day so it is really exiting to have the opportunity to be part of it all.
 {: .text-justify}
+
+# Certifications
+
+{% include feature_row %}
